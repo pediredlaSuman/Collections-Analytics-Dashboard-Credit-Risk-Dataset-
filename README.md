@@ -38,7 +38,7 @@ By combining **SQL**, **Python (EDA & feature engineering)**, and **Power BI vis
 - Job count distribution by country  
 
 ![Job Market Dashboard](images/job_dashboard.png)  
-
+-
 ---
 
 ## 🗂️ Repository Structure  
