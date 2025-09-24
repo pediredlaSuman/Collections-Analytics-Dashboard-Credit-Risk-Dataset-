@@ -29,16 +29,18 @@ By combining **SQL**, **Python (EDA & feature engineering)**, and **Power BI vis
 - Breakdown by **Gender, Education, Age Group, Balance Segment**  
 - **Delinquency Analysis** (Current vs Late payments)  
 - **Defaults vs Non-Defaults Age Distribution**  
+<img width="990" height="564" alt="image" src="https://github.com/user-attachments/assets/c88d1790-97dc-4be2-bc4c-ba8cb858d575" />
 
-![Credit Risk Dashboard](images/credit_dashboard.png)  
+
+
 
 ### 2. Job Analytics Dashboard (Supplemental Analysis)  
 - Highest paying data jobs by title & globally  
 - Jobs without degree requirements  
 - Job count distribution by country  
 
-![Job Market Dashboard](images/job_dashboard.png)  
--
+<img width="997" height="469" alt="image" src="https://github.com/user-attachments/assets/774c0259-8dca-4ad2-902b-c0699d575fb8" />
+
 ---
 
 ## 🗂️ Repository Structure  
